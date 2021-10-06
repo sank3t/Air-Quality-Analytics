@@ -1,4 +1,4 @@
-## Air-Quality-Analytics
+## Air Quality Analytics
 
 Analyzing the impact on air quality by the COVID-19 lockdown.
 
