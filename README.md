@@ -1,11 +1,16 @@
 ## Air-Quality-Analytics
 
-Locations that will going to be analyzed
+Analyzing the impact on air quality by the COVID-19 lockdown.
 
-* [Aligarh](http://berkeleyearth.org/air-quality/local/India/Uttar_Pradesh/Aligarh/)
+## Dataset Info
 
-* [Gurgaon](http://berkeleyearth.org/air-quality/local/India/Haryana/Gurgaon/)
+### Data Source
 
-* [Chandigarh](http://berkeleyearth.org/air-quality/local/India/Chandigarh/Chandigarh/)
+The data is collected from [Berkeley Earth](http://berkeleyearth.org). Berkeley Earth provides open access to the high quality hourly **PM2.5** data by different countries.
 
-* [Bengaluru](http://berkeleyearth.org/air-quality/local/India/Karnataka/Bengaluru/)
+### Data Dictionary
+
+| Column        | Description                                 |
+|:--------------|:--------------------------------------------|
+| timestamp_utc | Data collected at hourly granularity in UTC |
+| pm2.5         | concentration of pm2.5 in μg/m<sup>3</sup>  |
