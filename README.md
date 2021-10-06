@@ -34,6 +34,14 @@ For the analysis following cities are picked:
 
 * **Bengaluru** is known as Silicon Valley of India and most of the tech companies has their headquarter in this city. This city is also known as most [traffic-congested city](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-has-worlds-worst-traffic-congestion-says-study/articleshow/73753146.cms).
 
+## Notebooks
+
+* [Data Collection](https://nbviewer.jupyter.org/github/sank3t/Air-Quality-Analytics/blob/main/notebooks/1.%20Data_Collection.ipynb)
+
+* [Data Cleaning](https://nbviewer.jupyter.org/github/sank3t/Air-Quality-Analytics/blob/main/notebooks/2.%20Data_Cleaning.ipynb)
+
+* [Data Preparation](https://nbviewer.jupyter.org/github/sank3t/Air-Quality-Analytics/blob/main/notebooks/3.%20Data_Preparation.ipynb)
+
 ## References
 
 [1] [Bengaluru has world’s worst traffic congestion, says study](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-has-worlds-worst-traffic-congestion-says-study/articleshow/73753146.cms) (accessed Oct. 6, 2021).
