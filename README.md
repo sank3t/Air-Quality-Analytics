@@ -2,7 +2,7 @@
 
 Analyzing the impact on air quality by the COVID-19 lockdown.
 
-## Dataset Info
+## Dataset Description
 
 ### Data Source
 
@@ -33,6 +33,10 @@ For the analysis following cities are picked:
 * **Aligarh** is my hometown and is also known as _City of Locks_. Having a numerous large scale manufacturing units in this city, will like to study the how lockdown really impacted the air quality in this city.
 
 * **Bengaluru** is known as _Silicon Valley of India_ and most of the tech companies has their headquarter in this city. This city is also known as most [traffic-congested city](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-has-worlds-worst-traffic-congestion-says-study/articleshow/73753146.cms).
+
+* **Gurgaon** is the second largest IT Hub of India and is home to the many startups. Apart from IT it is also home to huge manufacturing units like Maruti Suzuki.
+
+* **Mohali** is the place where I spent most of the time from the beginning of 2019. This city is closed to the hilly areas and most of the part is covered by trees.
 
 ## Notebooks
 
